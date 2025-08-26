@@ -35,5 +35,9 @@ Pytonの学習記録とサンプルコード
   - 条件分岐（if、elif、else） ✅
   - 繰り返し（for文、while文） ✅
   - リストと辞書操作 ✅
-- GitHubへのコード保存 ✅
-- Python学習環境準備中
+- 実践ファイル作成完了 ✅
+  - hello.py
+  - lesson.py
+- GitHubへのコード保存完了 ✅
+
+**次回予定：Phase 2 応用編（ファイル操作、ライブラリ使用）**
